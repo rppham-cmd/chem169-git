@@ -1,3 +1,4 @@
 Notes from Colab: Git workflow practice.
 Before staging, git status shows the notes.txt as an untracked file, so that Git was aware of the new file but not yet tracking it. After staging, the file moves to "changes to be committed" so it is ready to be saved. After committing, git status showed "nothing to commit, working tree clean", showing us the change was successfully recorded in the repo history.
 “Edited from GitHub interface.”
+Partner A: small change
